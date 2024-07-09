@@ -1,2 +1,0 @@
-# wellsfargo
-Wells-Fargo ANS
